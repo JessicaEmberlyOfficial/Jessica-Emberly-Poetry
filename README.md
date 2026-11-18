@@ -1,4 +1,4 @@
-# Jessica-Emberly-Poetry
+# Jessica Emberly Poetry
 A repository for Jessica Emberly's poetry.
 
 ## Poetry
